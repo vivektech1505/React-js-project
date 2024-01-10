@@ -1,0 +1,23 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is react js by Vivek Kumar",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vivektech1505/React-js-project.git)"
+  },
+  "keywords": [
+    "react",
+    "vivek",
+    "kumar"
+  ],
+  "author": "Vivek Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
