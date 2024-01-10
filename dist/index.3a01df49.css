@@ -1,0 +1,25 @@
+#heading {
+  color: red;
+}
+
+.heading {
+  color: #fff;
+  background-color: red;
+  border: 2px solid #000;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+}
+
+.heading:hover {
+  color: red;
+  text-transform: uppercase;
+  background-color: #0ff;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
